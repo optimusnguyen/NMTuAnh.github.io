@@ -6,7 +6,7 @@
 		
 
 
-		$to='truongcongloi1998@gmail.com';
+		$to='nguyentuanh159@gmail.com';
 		$subject='Form Submission';
 		$message="Name :".$name."\n"."email :".$email."\n"."Wrote the following :"."\n\n".$message;
 		$headers="From: ".$email;
